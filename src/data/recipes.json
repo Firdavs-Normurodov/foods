@@ -1,0 +1,109 @@
+[
+    {
+      "label": "Grilled Chicken",
+      "image": "/src/images/grilled-chicken.jpg",
+      "yield": 4,
+      "cuisineType": ["american"],
+      "healthLabels": ["Gluten-Free", "High-Protein"]
+    },
+    {
+      "label": "Vegetable Soup",
+      "image": "/src/images/vegetable-soup.jpg",
+      "yield": 6,
+      "cuisineType": ["italian"],
+      "healthLabels": ["Low-Carb", "Vegan"]
+    },
+    {
+      "label": "Beef Steak",
+      "image": "/src/images/beef-steak.jpg",
+      "yield": 2,
+      "cuisineType": ["french"],
+      "healthLabels": ["High-Protein", "Low-Sodium"]
+    },
+    {
+      "label": "Pasta Carbonara",
+      "image": "/src/images/pasta-carbonara.jpg",
+      "yield": 4,
+      "cuisineType": ["italian"],
+      "healthLabels": ["Contains-Dairy", "Contains-Eggs"]
+    },
+    {
+      "label": "Sushi Rolls",
+      "image": "/src/images/sushi-rolls.jpg",
+
+      "yield": 8,
+      "cuisineType": ["japanese"],
+      "healthLabels": ["Low-Fat", "Pescatarian"]
+    },
+    {
+      "label": "Tacos",
+      "image": "/src/images/tacos.jpg",
+      "yield": 3,
+      "cuisineType": ["mexican"],
+      "healthLabels": ["Dairy-Free", "Nut-Free"]
+    },
+    {
+      "label": "Avocado Toast",
+      "image": "/src/images/avocado-toast.jpg",
+      "yield": 1,
+      "cuisineType": ["american"],
+      "healthLabels": ["Vegan", "Gluten-Free"]
+    },
+    {
+      "label": "Shrimp Stir Fry",
+      "image": "/src/images/shrimp-stir-fry.jpg",
+      "yield": 5,
+      "cuisineType": ["asian"],
+      "healthLabels": ["Low-Carb", "Pescatarian"]
+    },
+    {
+      "label": "Caesar Salad",
+      "image": "/src/images/caesar-salad.jpg",
+      "yield": 2,
+      "cuisineType": ["american"],
+      "healthLabels": ["Low-Sodium", "Low-Fat"]
+    },
+    {
+      "label": "Pumpkin Pie",
+      "image": "/src/images/pumpkin-pie.jpg",
+      "yield": 6,
+      "cuisineType": ["american"],
+      "healthLabels": ["Vegetarian", "Nut-Free"]
+    },
+    {
+      "label": "Butter Chicken",
+      "image": "/src/images/butter-chicken.jpg",
+      "yield": 4,
+      "cuisineType": ["indian"],
+      "healthLabels": ["High-Protein", "Contains-Dairy"]
+    },
+    {
+      "label": "Falafel Wraps",
+      "image": "/src/images/falafel-wraps.jpg",
+      "yield": 4,
+      "cuisineType": ["middle eastern"],
+      "healthLabels": ["Vegetarian", "High-Fiber"]
+    },
+    {
+      "label": "Biryani",
+      "image": "/src/images/biryani.jpg",
+      "yield": 5,
+      "cuisineType": ["indian"],
+      "healthLabels": ["Nut-Free", "High-Protein"]
+    },
+    {
+      "label": "Chocolate Cake",
+      "image": "/src/images/chocolate-cake.jpg",
+      "yield": 8,
+      "cuisineType": ["french"],
+      "healthLabels": ["Contains-Dairy", "Contains-Gluten"]
+    },
+    {
+      "label": "Greek Salad",
+      "image": "/src/images/greek-salad.jpg",
+      "yield": 3,
+      "cuisineType": ["greek"],
+      "healthLabels": ["Vegetarian", "Low-Sodium"]
+    }
+  ]
+  
