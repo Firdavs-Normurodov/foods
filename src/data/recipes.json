@@ -22,21 +22,21 @@
   },
   {
     "label": "Pasta Carbonara",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pasta_alla_Carbonara_-_closeup.jpg",
+    "image": "https://images.unsplash.com/photo-1516100882582-96c3a05fe590?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 4,
     "cuisineType": ["italian"],
     "healthLabels": ["Contains-Dairy", "Contains-Eggs"]
   },
   {
     "label": "Sushi Rolls",
-    "image": "https://cdn.pixabay.com/photo/2017/09/08/11/01/sushi-2720072_960_720.jpg",
+    "image": "https://images.unsplash.com/photo-1583623025817-d180a2221d0a?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 8,
     "cuisineType": ["japanese"],
     "healthLabels": ["Low-Fat", "Pescatarian"]
   },
   {
     "label": "Tacos",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Tacos_2012.jpg",
+    "image": "https://images.unsplash.com/photo-1524412529635-a258ed66c010?q=80&w=1995&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 3,
     "cuisineType": ["mexican"],
     "healthLabels": ["Dairy-Free", "Nut-Free"]
