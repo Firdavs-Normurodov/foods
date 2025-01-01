@@ -43,63 +43,63 @@
   },
   {
     "label": "Avocado Toast",
-    "image": "https://cdn.pixabay.com/photo/2018/03/17/10/12/avocado-toast-3220622_960_720.jpg",
+    "image": "https://images.unsplash.com/photo-1687276287139-88f7333c8ca4?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 1,
     "cuisineType": ["american"],
     "healthLabels": ["Vegan", "Gluten-Free"]
   },
   {
     "label": "Shrimp Stir Fry",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shrimp_stir_fry.jpg",
+    "image": "https://images.unsplash.com/photo-1535400255456-984241443b29?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 5,
     "cuisineType": ["asian"],
     "healthLabels": ["Low-Carb", "Pescatarian"]
   },
   {
     "label": "Caesar Salad",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Caesar_salad.jpg",
+    "image": "https://images.unsplash.com/photo-1633368475188-1f39151aa4e4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 2,
     "cuisineType": ["american"],
     "healthLabels": ["Low-Sodium", "Low-Fat"]
   },
   {
     "label": "Pumpkin Pie",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Pumpkin_pie.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1663840344821-92cb1b80d75f?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 6,
     "cuisineType": ["american"],
     "healthLabels": ["Vegetarian", "Nut-Free"]
   },
   {
     "label": "Butter Chicken",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Butter_chicken.jpg",
+    "image": "https://images.unsplash.com/photo-1614398750956-402891a7dce1?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 4,
     "cuisineType": ["indian"],
     "healthLabels": ["High-Protein", "Contains-Dairy"]
   },
   {
     "label": "Falafel Wraps",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Falafel_wrapped_in_pita_bread.jpg",
+    "image": "https://images.unsplash.com/photo-1681072530653-db8fe2538631?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 4,
     "cuisineType": ["middle eastern"],
     "healthLabels": ["Vegetarian", "High-Fiber"]
   },
   {
     "label": "Biryani",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Chicken_biryani.jpg",
+    "image": "https://plus.unsplash.com/premium_photo-1695029502961-f57f307bd0c0?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 5,
     "cuisineType": ["indian"],
     "healthLabels": ["Nut-Free", "High-Protein"]
   },
   {
     "label": "Chocolate Cake",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Chocolate_cake.jpg",
+    "image": "https://images.unsplash.com/photo-1586985289906-406988974504?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 8,
     "cuisineType": ["french"],
     "healthLabels": ["Contains-Dairy", "Contains-Gluten"]
   },
   {
     "label": "Greek Salad",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Greek_salad.jpg",
+    "image": "https://images.unsplash.com/photo-1638612833646-34eecc16f3f1?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 3,
     "cuisineType": ["greek"],
     "healthLabels": ["Vegetarian", "Low-Sodium"]
