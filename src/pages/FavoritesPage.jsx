@@ -1,6 +1,5 @@
 import RecipeCard from "../components/RecipeCard";
 import { getRandomColor } from "../lib/utils";
-import LikesImage from "../images/404.gif";
 const FavoritesPage = () => {
   const favorites = JSON.parse(localStorage.getItem("favorites")) || [];
 
