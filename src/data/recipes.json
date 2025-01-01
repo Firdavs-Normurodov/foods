@@ -22,7 +22,7 @@
   },
   {
     "label": "Pasta Carbonara",
-    "image": "https://images.unsplash.com/photo-1516100882582-96c3a05fe590?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://images.unsplash.com/photo-1598866594230-a7c12756260f?q=80&w=1908&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 4,
     "cuisineType": ["italian"],
     "healthLabels": ["Contains-Dairy", "Contains-Eggs"]
@@ -43,7 +43,7 @@
   },
   {
     "label": "Avocado Toast",
-    "image": "https://images.unsplash.com/photo-1687276287139-88f7333c8ca4?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://images.unsplash.com/photo-1528216142275-f64d7a59d8d5?q=80&w=1794&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 1,
     "cuisineType": ["american"],
     "healthLabels": ["Vegan", "Gluten-Free"]
