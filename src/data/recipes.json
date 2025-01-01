@@ -8,14 +8,14 @@
   },
   {
     "label": "Vegetable Soup",
-    "image": "https://cdn.pixabay.com/photo/2017/09/04/16/22/vegetable-soup-2700557_960_720.jpg",
+    "image": "https://images.unsplash.com/photo-1677889173479-c8a0ab15ae18?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 6,
     "cuisineType": ["italian"],
     "healthLabels": ["Low-Carb", "Vegan"]
   },
   {
     "label": "Beef Steak",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Beef_steak.jpg",
+    "image": "https://images.unsplash.com/photo-1607403218119-83b4df4c0959?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "yield": 2,
     "cuisineType": ["french"],
     "healthLabels": ["High-Protein", "Low-Sodium"]
