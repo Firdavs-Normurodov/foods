@@ -11,5 +11,3 @@ npm install
 ```shell
 npm run dev
 ```
-
-### Like and Subscribe:)
